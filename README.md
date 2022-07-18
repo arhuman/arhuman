@@ -10,7 +10,7 @@ I'm founder and jack of all trades at [Doolta](https://www.doolta.com)
 * I was Service Manager of the French national Open Source support at Capgemini
 * I was a teacher (Perl, Security, OOP...)
 * I like to give talks
-* I like to [blog](https://blog.asssad.fr)
+* I like to [blog](https://blog.assad.fr)
 * I like to produce [podcasts](https://gofr.fm) about the Go langague (In French)
 * 
 [![Arhuman's github stats](https://github-readme-stats.vercel.app/api?username=arhuman&show_icons=true&theme=outrun)](https://github.com/arhuman/github-readme-stats)
