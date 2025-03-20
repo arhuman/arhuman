@@ -12,9 +12,10 @@ I'm founder and jack of all trades at [Doolta](https://www.doolta.com)
 * I like to give talks
 * I like to [blog](https://blog.assad.fr)
 * I like to produce [podcasts](https://gofr.fm) about the Go langague (In French)
-* 
-[![Arhuman's github stats](https://github-readme-stats.vercel.app/api?username=arhuman&show_icons=true&theme=outrun)](https://github.com/arhuman/github-readme-stats)
+
 <!--
+[![Arhuman's github stats](https://github-readme-stats.vercel.app/api?username=arhuman&show_icons=true&theme=outrun)](https://github.com/arhuman/github-readme-stats)
+
 **arhuman/arhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
