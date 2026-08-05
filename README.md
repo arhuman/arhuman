@@ -1,31 +1,24 @@
 ### Hi there 👋
 
-I'm Arnaud ASSAD but you can also call me by my nickname : Arhuman.
+I'm Arnaud ASSAD, aka Arhuman.
 
-I'm founder and jack of all trades at [Doolta](https://www.doolta.com)
+I design and build software systems that stay simple enough to understand, verify, and operate. Then I build my own products on the same principles, to make sure they hold up in practice.
 
-⚡ Other facts ⚡:
-* I'm a proud Gopher (go lover), forever a Perl Monger (and was the 32th Saint on Perlmonks) and a learning Rustacean
-* I'm a Foss advocate from the very start (1993)
-* I was Service Manager of the French national Open Source support at Capgemini
-* I was a teacher (Perl, Security, OOP...)
-* I like to give talks
-* I like to [blog](https://blog.assad.fr)
-* I like to produce [podcasts](https://gofr.fm) about the Go langague (In French)
+Founder at [Doolta](https://www.doolta.com): Fractional CTO, Go/Cloud-Native architecture, and technical audits for teams that need to get a complex system back under control.
 
-<!--
-[![Arhuman's github stats](https://github-readme-stats.vercel.app/api?username=arhuman&show_icons=true&theme=outrun)](https://github.com/arhuman/github-readme-stats)
+**Three systems that show how I work:**
 
-**arhuman/arhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔍 [**mAPI-ng**](https://www.mapi-ng.com) ([source](https://github.com/arhuman/maping)): Go API observability that answers "why is this slow?" with a falsifiable diagnosis instead of a wall of dashboards.
+- 🧠 [**Mnemos**](https://github.com/arhuman/mnemos): local-first memory for AI agents. Every answer cites the exact file, section, and line it came from. No vector DB, no cloud, one binary.
+- 🧾 **Moontill**: an offline-first PWA point of sale, in real daily use by an independent shop. Architecture carried all the way to production, not just to prototype. [Case study](https://www.doolta.com/en/project/moontill/)
 
-Here are some ideas to get you started:
+The rest of the lab (Minexus, Metarc, Prooflog, Asheeve, YVO Cloud) is at [doolta.com/project](https://www.doolta.com/en/project/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Also true about me:
+* Perl Monger since the 90s (32nd Saint on Perlmonks), FOSS advocate since 1993, learning Rustacean
+* Former Service Manager of the French national Open Source support at Capgemini
+* I teach, I [blog](https://blog.assad.fr), and I produce a Go podcast: [gofr.fm](https://gofr.fm) (in French)
+
+📬 Open to Fractional CTO engagements, technical audits, and Go/Cloud-Native architecture work: [doolta.com/contact](https://www.doolta.com/en/contact/)
+
+I left the clone at arhuman-profile/ in the scratchpad untouched, no push happened. Say the word if you want me to apply and push it instead of doing it yourself.
