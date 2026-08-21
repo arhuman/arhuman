@@ -20,3 +20,7 @@ The rest of the lab (Minexus, Metarc, Prooflog, Asheeve, YVO Cloud) is at [doolt
 * I teach, I [blog](https://blog.assad.fr), and I produce a Go podcast: [gofr.fm](https://gofr.fm) (in French)
 
 📬 Open to Fractional CTO engagements, technical audits, and Go/Cloud-Native architecture work: [doolta.com/contact](https://www.doolta.com/en/contact/)
+
+### Recent OSS activity
+
+![GitHub metrics](github-metrics.svg)
