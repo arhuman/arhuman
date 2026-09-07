@@ -18,11 +18,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
 
-          base: header, activity, repositories
+          base: header, repositories
           base_indepth: yes
 
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 30
-          plugin_activity_filter: pr, issue, release
-          plugin_activity_visibility: public
+          # The activity section is disabled: GitHub stopped populating
+          # payload.commits on push events, so the plugin throws on every
+          # one of them (activity/index.mjs:140) and renders "Unexpected
+          # error". No plugin_activity_* setting avoids it, the filters run
+          # after the crashing handler. Upstream is unmaintained since 2023.
+          plugin_activity: no
