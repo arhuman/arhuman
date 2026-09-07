@@ -13,7 +13,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
@@ -24,5 +24,5 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 30
-          plugin_activity_filter: pr, issue, review, release
+          plugin_activity_filter: pr, issue, release
           plugin_activity_visibility: public
